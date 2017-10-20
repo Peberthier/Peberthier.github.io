@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "http://Peberthier.github.io" # the base hostname & protocol for your site
+url: "https://peberthier.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:

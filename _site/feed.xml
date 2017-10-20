@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pierre's blog</title>
-    <atom:link href="http://localhost:4000/myblog//feed.xml" rel="self" type="application/rss+xml"/>
-    <link>http://localhost:4000/myblog//</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://localhost:4000/</link>
     <description>A personal portfolio and blog website</description>
-    <pubDate>Thu, 19 Oct 2017 10:42:50 +0200</pubDate>
+    <pubDate>Thu, 19 Oct 2017 11:29:52 +0200</pubDate>
     
       <item>
         <title>The wikipedia of markdown syntax</title>
-        <link>http://localhost:4000/myblog//2017/10/17/markdown-wikipedia.html</link>
-        <guid isPermaLink="true">http://localhost:4000/myblog//2017/10/17/markdown-wikipedia.html</guid>
+        <link>http://localhost:4000/2017/10/17/markdown-wikipedia.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/17/markdown-wikipedia.html</guid>
         <description>&lt;h1 id=&quot;here-is-a-great-link-to-markdown-syntax&quot;&gt;Here is a great link to markdown syntax&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links&quot;&gt;Click here&lt;/a&gt;;&lt;/p&gt;
@@ -20,9 +20,9 @@
     
       <item>
         <title>Pierre explains what he did on Bloc Jams and what are the challenges he faced</title>
-        <link>http://localhost:4000/myblog//2017/10/17/Pierre.html</link>
-        <guid isPermaLink="true">http://localhost:4000/myblog//2017/10/17/Pierre.html</guid>
-        <description>&lt;p&gt;&lt;img src=&quot;/myblog//img/bloc_jams_bg.jpg&quot; alt=&quot;bloc jams logo&quot; /&gt;&lt;/p&gt;
+        <link>http://localhost:4000/2017/10/17/Pierre.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/17/Pierre.html</guid>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/bloc_jams_bg.jpg&quot; alt=&quot;bloc jams logo&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;pierres-path-to-code&quot;&gt;Pierre’s path to code&lt;/h1&gt;
 
@@ -76,8 +76,8 @@
     
       <item>
         <title>Image i got when typing my first and family name on google</title>
-        <link>http://localhost:4000/myblog//2017/10/17/Lost-inspirations.html</link>
-        <guid isPermaLink="true">http://localhost:4000/myblog//2017/10/17/Lost-inspirations.html</guid>
+        <link>http://localhost:4000/2017/10/17/Lost-inspirations.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/17/Lost-inspirations.html</guid>
         <description>&lt;p&gt;Here is what i got when looking for me on google, and it is not me!&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Oct 2017 00:00:00 +0200</pubDate>
